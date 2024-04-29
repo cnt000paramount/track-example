@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+    <head>
+        <styling></styling>
+        <layout></layout>
+    </head>
+    <body>
+        <div>
+            <p begin="00:00:01.334" end="00:00:04.170">
+                <span>Now, that brings me neatly</span>
+                <br></br>
+                <span>to point 16:</span>
+            </p>
+            <p begin="00:00:04.237" end="00:00:06.439">
+                <span>there is still a great deal</span>
+                <br></br>
+                <span>of noise going on at night.</span>
+            </p>
+            <p begin="00:00:06.506" end="00:00:09.642">
+                <span>Laughing, giggling, horseplay.</span>
+            </p>
+            <p begin="00:00:09.709" end="00:00:12.479">
+                <span>Now, we all get bored, that&#39;s</span>
+                <br></br>
+                <span>inevitable in our circumstances,</span>
+            </p>
+            <p begin="00:00:12.545" end="00:00:16.383">
+                <span>but may I remind you,</span>
+                <br></br>
+                <span>we are at war. I w...</span>
+            </p>
+            <p begin="00:00:16.449" end="00:00:18.685">
+                <span>Ah, Lieutenant.</span>
+            </p>
+            <p begin="00:00:18.752" end="00:00:20.553">
+                <span>Communiqué for you, sir,</span>
+                <br></br>
+                <span>from HQ. Marked urgent.</span>
+            </p>
+            <p begin="00:00:20.620" end="00:00:22.188">
+                <span>Ah, finally.</span>
+            </p>
+            <p begin="00:00:22.255" end="00:00:23.757">
+                <span>This would be my requisition</span>
+                <br></br>
+                <span>for a service revolver.</span>
+            </p>
+            <p begin="00:00:23.823" end="00:00:25.258">
+                <span>(clears throat)</span>
+            </p>
+            <p begin="00:00:25.325" end="00:00:26.426">
+                <span>(mutters indistinctly)</span>
+            </p>
+            <p begin="00:00:26.493" end="00:00:28.294">
+                <span>Good God.</span>
+            </p>
+            <p begin="00:00:26.493" end="00:00:28.294">
+                <span>Sir?</span>
+            </p>
+            <p begin="00:00:28.361" end="00:00:29.562">
+                <span>France has surrendered.</span>
+            </p>
+            <p begin="00:00:29.629" end="00:00:31.431">
+                <span>My God, they&#39;ve taken France.</span>
+            </p>
+            <p begin="00:00:29.629" end="00:00:31.431">
+                <span>(murmuring)</span>
+            </p>
+            <p begin="00:00:31.498" end="00:00:32.465">
+                <span>The Germans are coming.</span>
+            </p>
+            <p begin="00:00:34.634" end="00:00:36.403">
+                <span>I don&#39;t think they&#39;ll</span>
+                <br></br>
+                <span>be here just yet, sir.</span>
+            </p>
+            <p begin="00:00:36.469" end="00:00:38.538">
+                <span>What? Right.</span>
+            </p>
+            <p begin="00:00:38.605" end="00:00:39.739">
+                <span>May I suggest we initiate</span>
+            </p>
+            <p begin="00:00:39.806" end="00:00:41.474">
+                <span>the emergency</span>
+                <br></br>
+                <span>lockdown protocol, sir?</span>
+            </p>
+            <p begin="00:00:41.541" end="00:00:44.411">
+                <span>Yes. Yes.</span>
+                <br></br>
+                <span>Jolly good.</span>
+            </p>
+            <p begin="00:00:44.477" end="00:00:46.679">
+                <span>It&#39;s vital that nothing</span>
+                <br></br>
+                <span>fall into enemy hands.</span>
+            </p>
+            <p begin="00:00:47.847" end="00:00:49.182">
+                <span>You heard the C.O.</span>
+            </p>
+            <p begin="00:00:49.249" end="00:00:50.250">
+                <span>Get to your duties.</span>
+            </p>
+            <p begin="00:00:49.249" end="00:00:50.250">
+                <span>Sir.</span>
+            </p>
+            <p begin="00:00:50.316" end="00:00:52.085">
+                <span>(quiet chatter)</span>
+            </p>
+            <p begin="00:00:55.321" end="00:00:58.224">
+                <span>Eh, exciting times, Havers.</span>
+            </p>
+            <p begin="00:00:58.291" end="00:01:00.393">
+                <span>If they do invade, we may get</span>
+                <br></br>
+                <span>a proper pop at Jerry.</span>
+            </p>
+            <p begin="00:01:00.460" end="00:01:02.228">
+                <span>Yes.</span>
+            </p>
+            <p begin="00:01:02.295" end="00:01:03.663">
+                <span>About that, sir...</span>
+            </p>
+            <p begin="00:01:05.432" end="00:01:08.535">
+                <span>I know we do</span>
+                <br></br>
+                <span>vital work here, sir,</span>
+            </p>
+            <p begin="00:01:08.601" end="00:01:11.704">
+                <span>but I want to get involved</span>
+                <br></br>
+                <span>in the fighting.</span>
+            </p>
+            <p begin="00:01:11.771" end="00:01:13.406">
+                <span>I&#39;ve put in</span>
+                <br></br>
+                <span>for a transfer.</span>
+            </p>
+            <p begin="00:01:13.473" end="00:01:15.508">
+                <span>You&#39;re leaving?</span>
+            </p>
+            <p begin="00:01:17.811" end="00:01:19.479">
+                <span>There&#39;s talk</span>
+                <br></br>
+                <span>of a North Africa front.</span>
+            </p>
+            <p begin="00:01:21.114" end="00:01:22.248">
+                <span>Yes.</span>
+            </p>
+            <p begin="00:01:23.416" end="00:01:25.351">
+                <span>Yes, well,</span>
+                <br></br>
+                <span>I-I-I totally understand.</span>
+            </p>
+            <p begin="00:01:25.418" end="00:01:26.719">
+                <span>Of course.</span>
+                <br></br>
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:01:27.687" end="00:01:29.189">
+                <span>Carry on.</span>
+            </p>
+            <p begin="00:01:30.190" end="00:01:31.324">
+                <span>Thank you.</span>
+            </p>
+            <p begin="00:01:36.696" end="00:01:39.599">
+                <span>♪ ♪</span>
+            </p>
+            <p begin="00:02:00.487" end="00:02:04.057">
+                <span>PAT: And seeing as nobody else</span>
+                <br></br>
+                <span>has volunteered, I thought</span>
+            </p>
+            <p begin="00:04:48.123" end="00:04:50.292">
+                <span>this evening, before film club,</span>
+            </p>
+            <p begin="00:04:50.359" end="00:04:52.294">
+                <span>I would give you all</span>
+                <br></br>
+                <span>a little talk</span>
+            </p>
+            <p begin="00:04:52.361" end="00:04:54.363">
+                <span>on activity badges.</span>
+            </p>
+            <p begin="00:04:54.430" end="00:04:55.498">
+                <span>(all groan)</span>
+            </p>
+            <p begin="00:04:55.564" end="00:04:57.099">
+                <span>-So...</span>
+                <br></br>
+                <span>-OTHERS: There are 37 badges</span>
+            </p>
+            <p begin="00:04:57.166" end="00:04:59.034">
+                <span>that you can collect.</span>
+            </p>
+            <p begin="00:04:59.101" end="00:05:01.704">
+                <span>-Badge number one, bivouacs.</span>
+                <br></br>
+                <span>-PAT: All right.</span>
+            </p>
+            <p begin="00:05:01.770" end="00:05:04.106">
+                <span>Well, I&#39;m sorry,</span>
+                <br></br>
+                <span>I mean... (scoffs)</span>
+            </p>
+            <p begin="00:05:04.173" end="00:05:05.708">
+                <span>...if anyone has anything new</span>
+                <br></br>
+                <span>that they&#39;d like to, uh...</span>
+            </p>
+            <p begin="00:05:05.774" end="00:05:08.077">
+                <span>(stammers) I could do,</span>
+                <br></br>
+                <span>uh, my talk</span>
+            </p>
+            <p begin="00:05:08.143" end="00:05:10.613">
+                <span>on how to, uh, skin a mammoth.</span>
+            </p>
+            <p begin="00:05:10.679" end="00:05:11.547">
+                <span>You start at the...</span>
+            </p>
+            <p begin="00:05:10.679" end="00:05:11.547">
+                <span>(both groan)</span>
+            </p>
+            <p begin="00:05:11.614" end="00:05:12.548">
+                <span>That&#39;s not new.</span>
+            </p>
+            <p begin="00:05:12.615" end="00:05:14.083">
+                <span>That&#39;s not strictly new, is it?</span>
+            </p>
+            <p begin="00:05:14.149" end="00:05:16.085">
+                <span>(overlapping arguing)</span>
+            </p>
+            <p begin="00:05:16.151" end="00:05:19.221">
+                <span>I&#39;m ready to talk</span>
+                <br></br>
+                <span>about the witch trial.</span>
+            </p>
+            <p begin="00:05:20.489" end="00:05:21.557">
+                <span>Witch trial.</span>
+            </p>
+            <p begin="00:05:23.659" end="00:05:26.428">
+                <span>If-if-if it be of interest?</span>
+            </p>
+            <p begin="00:05:26.495" end="00:05:28.197">
+                <span>PAT:</span>
+                <br></br>
+                <span>Oh, Mary,</span>
+            </p>
+            <p begin="00:05:28.264" end="00:05:29.632">
+                <span>I mean, if you feel like</span>
+                <br></br>
+                <span>you&#39;re ready.</span>
+            </p>
+            <p begin="00:05:29.698" end="00:05:30.699">
+                <span>MARY: Well,</span>
+                <br></br>
+                <span>I knows it-it&#39;s</span>
+            </p>
+            <p begin="00:05:30.766" end="00:05:33.369">
+                <span>taken me a whiles</span>
+                <br></br>
+                <span>to-to talk.</span>
+            </p>
+            <p begin="00:05:33.435" end="00:05:35.671">
+                <span>Only about</span>
+                <br></br>
+                <span>300 years.</span>
+            </p>
+            <p begin="00:05:35.738" end="00:05:38.541">
+                <span>But, yeah, I-I think</span>
+                <br></br>
+                <span>I-I&#39;m ready.</span>
+            </p>
+            <p begin="00:05:38.607" end="00:05:40.609">
+                <span>And how many rooms</span>
+                <br></br>
+                <span>do you have?</span>
+            </p>
+            <p begin="00:05:40.676" end="00:05:42.411">
+                <span>Oh, I think</span>
+                <br></br>
+                <span>there&#39;s, like...</span>
+            </p>
+            <p begin="00:05:40.676" end="00:05:42.411">
+                <span>Hmm...</span>
+            </p>
+            <p begin="00:05:42.478" end="00:05:46.048">
+                <span>Natural light,</span>
+                <br></br>
+                <span>so that&#39;s a... Mm.</span>
+            </p>
+            <p begin="00:05:46.115" end="00:05:49.518">
+                <span>Ooh, period stairs,</span>
+                <br></br>
+                <span>clearly.</span>
+            </p>
+            <p begin="00:05:49.585" end="00:05:51.086">
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:05:49.585" end="00:05:51.086">
+                <span>Hmm.</span>
+            </p>
+            <p begin="00:05:51.153" end="00:05:52.521">
+                <span>Interesting space.</span>
+            </p>
+            <p begin="00:05:52.588" end="00:05:55.090">
+                <span>Sort of rustic.</span>
+            </p>
+            <p begin="00:05:55.157" end="00:05:56.759">
+                <span>Colonial.</span>
+            </p>
+            <p begin="00:05:56.825" end="00:05:59.128">
+                <span>Quite a niche market,</span>
+                <br></br>
+                <span>wedding-wise.</span>
+            </p>
+            <p begin="00:05:59.194" end="00:06:01.597">
+                <span>I heard Isabelle</span>
+                <br></br>
+                <span>from Belle&#39;s Weddings passed,</span>
+            </p>
+            <p begin="00:06:01.664" end="00:06:03.232">
+                <span>and you were sick on her.</span>
+            </p>
+            <p begin="00:06:03.299" end="00:06:04.767">
+                <span>Uh, no, I was sick near her.</span>
+            </p>
+            <p begin="00:06:04.833" end="00:06:06.468">
+                <span>Can I be honest with you?</span>
+            </p>
+            <p begin="00:06:06.535" end="00:06:07.736">
+                <span>I don&#39;t like it.</span>
+            </p>
+            <p begin="00:06:09.238" end="00:06:10.306">
+                <span>I love it!</span>
+            </p>
+            <p begin="00:06:10.372" end="00:06:11.740">
+                <span>It is a little shabby</span>
+                <br></br>
+                <span>around the edges,</span>
+            </p>
+            <p begin="00:06:11.807" end="00:06:14.443">
+                <span>but with a bit of zhuzhing up,</span>
+                <br></br>
+                <span>this could really suit</span>
+            </p>
+            <p begin="00:06:14.510" end="00:06:17.246">
+                <span>the right couple.</span>
+            </p>
+            <p begin="00:06:14.510" end="00:06:17.246">
+                <span>Uh, and do you happen</span>
+                <br></br>
+                <span>to have any clients</span>
+            </p>
+            <p begin="00:06:17.313" end="00:06:18.781">
+                <span>who are interested,</span>
+                <br></br>
+                <span>like, soon? (chuckles)</span>
+            </p>
+            <p begin="00:06:17.313" end="00:06:18.781">
+                <span>Soon?</span>
+            </p>
+            <p begin="00:06:18.847" end="00:06:20.249">
+                <span>MARTIN:</span>
+                <br></br>
+                <span>There is one,</span>
+            </p>
+            <p begin="00:06:20.316" end="00:06:22.585">
+                <span>Clare. I&#39;m showing her</span>
+                <br></br>
+                <span>some other places today.</span>
+            </p>
+            <p begin="00:06:22.651" end="00:06:24.453">
+                <span>She wants</span>
+                <br></br>
+                <span>to book in ASAP.</span>
+            </p>
+            <p begin="00:06:24.520" end="00:06:26.455">
+                <span>Shotgun wedding.</span>
+            </p>
+            <p begin="00:06:24.520" end="00:06:26.455">
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:06:26.522" end="00:06:27.756">
+                <span>I&#39;m kidding.</span>
+            </p>
+            <p begin="00:06:27.823" end="00:06:29.692">
+                <span>I think this could work</span>
+                <br></br>
+                <span>for them.</span>
+            </p>
+            <p begin="00:06:29.758" end="00:06:32.428">
+                <span>Piano, tick.</span>
+                <br></br>
+                <span>Open fireplace, tick.</span>
+            </p>
+            <p begin="00:06:32.494" end="00:06:34.096">
+                <span>Canape room, tick.</span>
+            </p>
+            <p begin="00:06:34.163" end="00:06:35.798">
+                <span>Move painting</span>
+                <br></br>
+                <span>of creepy old lady, tick.</span>
+            </p>
+            <p begin="00:06:35.864" end="00:06:38.200">
+                <span>Kitchen, tick.</span>
+                <br></br>
+                <span>Perfectly placed</span>
+            </p>
+            <p begin="00:06:38.267" end="00:06:40.603">
+                <span>to allow you to flow</span>
+                <br></br>
+                <span>right through this corridor</span>
+            </p>
+            <p begin="00:06:40.669" end="00:06:42.404">
+                <span>straight into your garden</span>
+                <br></br>
+                <span>at the back,</span>
+            </p>
+            <p begin="00:06:42.471" end="00:06:43.739">
+                <span>where you can set up</span>
+                <br></br>
+                <span>your main marquee</span>
+            </p>
+            <p begin="00:06:43.806" end="00:06:47.042">
+                <span>right... here.</span>
+            </p>
+            <p begin="00:06:47.109" end="00:06:49.044">
+                <span>Oh, no.</span>
+            </p>
+            <p begin="00:06:49.111" end="00:06:50.579">
+                <span>Uh, yeah.</span>
+            </p>
+            <p begin="00:06:50.646" end="00:06:52.348">
+                <span>We can&#39;t</span>
+                <br></br>
+                <span>show people this.</span>
+            </p>
+            <p begin="00:06:52.414" end="00:06:54.149">
+                <span>There&#39;s rough around the edges,</span>
+                <br></br>
+                <span>then there&#39;s a bomb site.</span>
+            </p>
+            <p begin="00:06:54.216" end="00:06:56.051">
+                <span>We haven&#39;t quite got around</span>
+                <br></br>
+                <span>to clearing it yet,</span>
+            </p>
+            <p begin="00:06:56.118" end="00:06:57.486">
+                <span>but we will.</span>
+            </p>
+            <p begin="00:06:56.118" end="00:06:57.486">
+                <span>By this afternoon?</span>
+            </p>
+            <p begin="00:06:57.553" end="00:06:58.988">
+                <span>When?</span>
+            </p>
+            <p begin="00:06:57.553" end="00:06:58.988">
+                <span>What?</span>
+            </p>
+            <p begin="00:06:59.054" end="00:07:00.122">
+                <span>I was going to</span>
+                <br></br>
+                <span>bring Clare around</span>
+            </p>
+            <p begin="00:07:00.189" end="00:07:01.357">
+                <span>after showing her</span>
+                <br></br>
+                <span>the other venues,</span>
+            </p>
+            <p begin="00:07:01.423" end="00:07:03.025">
+                <span>but I can&#39;t</span>
+                <br></br>
+                <span>show her this.</span>
+            </p>
+            <p begin="00:07:03.092" end="00:07:04.994">
+                <span>You have to make space</span>
+                <br></br>
+                <span>for this sort of marquee</span>
+            </p>
+            <p begin="00:07:05.060" end="00:07:06.295">
+                <span>if you want</span>
+                <br></br>
+                <span>to host weddings here.</span>
+            </p>
+            <p begin="00:07:06.362" end="00:07:07.663">
+                <span>Without it,</span>
+            </p>
+            <p begin="00:07:07.730" end="00:07:09.565">
+                <span>you&#39;ve no catering flow.</span>
+            </p>
+            <p begin="00:07:09.632" end="00:07:12.134">
+                <span>No flow, no go.</span>
+            </p>
+            <p begin="00:07:09.632" end="00:07:12.134">
+                <span>Yeah.</span>
+            </p>
+            <p begin="00:07:12.201" end="00:07:13.502">
+                <span>Mm.</span>
+            </p>
+            <p begin="00:07:12.201" end="00:07:13.502">
+                <span>Guys,</span>
+            </p>
+            <p begin="00:07:13.569" end="00:07:15.537">
+                <span>you&#39;ve got to get it</span>
+                <br></br>
+                <span>wedding ready.</span>
+            </p>
+            <p begin="00:07:15.604" end="00:07:17.539">
+                <span>We&#39;ll clear it.</span>
+            </p>
+            <p begin="00:07:15.604" end="00:07:17.539">
+                <span>We will?</span>
+            </p>
+            <p begin="00:07:17.606" end="00:07:19.675">
+                <span>Is what I wanted to hear.</span>
+            </p>
+            <p begin="00:07:19.742" end="00:07:21.477">
+                <span>(both chuckle)</span>
+            </p>
+            <p begin="00:07:21.543" end="00:07:24.313">
+                <span>Let&#39;s make this happen.</span>
+            </p>
+            <p begin="00:07:24.380" end="00:07:25.781">
+                <span>I&#39;ll delay Clare</span>
+                <br></br>
+                <span>as long as I can,</span>
+            </p>
+            <p begin="00:07:25.848" end="00:07:28.017">
+                <span>say 4:00?</span>
+            </p>
+            <p begin="00:07:28.083" end="00:07:29.251">
+                <span>Ciao, ciao.</span>
+            </p>
+            <p begin="00:07:32.755" end="00:07:35.324">
+                <span>MIKE:</span>
+                <br></br>
+                <span>Five hours.</span>
+            </p>
+            <p begin="00:07:35.391" end="00:07:37.192">
+                <span>Loads of time.</span>
+            </p>
+            <p begin="00:07:37.259" end="00:07:38.727">
+                <span>PAT:</span>
+                <br></br>
+                <span>So, film club, now,</span>
+            </p>
+            <p begin="00:07:38.794" end="00:07:41.163">
+                <span>I know it&#39;s not my turn</span>
+                <br></br>
+                <span>to choose, but I</span>
+            </p>
+            <p begin="00:07:41.230" end="00:07:43.666">
+                <span>would like to lobby hard</span>
+            </p>
+            <p begin="00:07:43.732" end="00:07:44.667">
+                <span>for Top Gun.</span>
+            </p>
+            <p begin="00:07:44.733" end="00:07:46.568">
+                <span>Not again.</span>
+            </p>
+            <p begin="00:07:46.635" end="00:07:47.970">
+                <span>I don&#39;t know about you,</span>
+                <br></br>
+                <span>Mary, but, uh,</span>
+            </p>
+            <p begin="00:07:48.037" end="00:07:50.039">
+                <span>I quite like the look of, uh,</span>
+            </p>
+            <p begin="00:07:50.105" end="00:07:52.408">
+                <span>ooh, Chariots of Fire.</span>
+            </p>
+            <p begin="00:07:53.442" end="00:07:55.678">
+                <span>(grunts softly)</span>
+            </p>
+            <p begin="00:07:55.744" end="00:08:00.015">
+                <span>No, actually, uh, how about</span>
+                <br></br>
+                <span>Mississippi Burning?</span>
+            </p>
+            <p begin="00:08:00.082" end="00:08:00.749">
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:08:02.284" end="00:08:03.252">
+                <span>Towering Inferno?</span>
+            </p>
+            <p begin="00:08:04.453" end="00:08:06.355">
+                <span>Hmm.</span>
+            </p>
+            <p begin="00:08:04.453" end="00:08:06.355">
+                <span>Huh.</span>
+            </p>
+            <p begin="00:08:06.422" end="00:08:07.623">
+                <span>Maybe she is ready.</span>
+            </p>
+            <p begin="00:08:06.422" end="00:08:07.623">
+                <span>JULIAN: Huh.</span>
+            </p>
+            <p begin="00:08:07.690" end="00:08:08.724">
+                <span>Could be the case.</span>
+            </p>
+            <p begin="00:08:07.690" end="00:08:08.724">
+                <span>Anyway,</span>
+            </p>
+            <p begin="00:08:08.791" end="00:08:10.092">
+                <span>it&#39;s my turn</span>
+                <br></br>
+                <span>to choose this week,</span>
+            </p>
+            <p begin="00:08:10.159" end="00:08:11.427">
+                <span>so, tish, tish, tish.</span>
+            </p>
+            <p begin="00:08:10.159" end="00:08:11.427">
+                <span>I don&#39;t think so,</span>
+            </p>
+            <p begin="00:08:11.493" end="00:08:13.362">
+                <span>mate. It&#39;s mine.</span>
+            </p>
+            <p begin="00:08:13.429" end="00:08:15.064">
+                <span>Faradiddle, sir.</span>
+            </p>
+            <p begin="00:08:15.130" end="00:08:17.466">
+                <span>You had your turn two weeks ago.</span>
+                <br></br>
+                <span>You swapped with me.</span>
+            </p>
+            <p begin="00:08:17.533" end="00:08:19.501">
+                <span>No, no. I don&#39;t recall to</span>
+                <br></br>
+                <span>that, and even if I did,</span>
+            </p>
+            <p begin="00:08:19.568" end="00:08:21.136">
+                <span>it would have been</span>
+                <br></br>
+                <span>a verbal, nonbinding</span>
+            </p>
+            <p begin="00:08:21.203" end="00:08:23.172">
+                <span>agreement.</span>
+            </p>
+            <p begin="00:08:21.203" end="00:08:23.172">
+                <span>You show me your thumb, sir.</span>
+            </p>
+            <p begin="00:08:23.238" end="00:08:25.741">
+                <span>I would show you my glove,</span>
+                <br></br>
+                <span>sir, if I had one.</span>
+            </p>
+            <p begin="00:08:25.808" end="00:08:27.743">
+                <span>And I would give you</span>
+                <br></br>
+                <span>a bunch of fives, mate.</span>
+            </p>
+            <p begin="00:08:27.810" end="00:08:29.445">
+                <span>I used to box for</span>
+                <br></br>
+                <span>Cambridge, you know.</span>
+            </p>
+            <p begin="00:08:29.511" end="00:08:31.547">
+                <span>Let&#39;s go. Let&#39;s go,</span>
+                <br></br>
+                <span>pal. Oh, yes.</span>
+            </p>
+            <p begin="00:08:31.613" end="00:08:34.116">
+                <span>Guys, guys, guys,</span>
+                <br></br>
+                <span>s&#39;il vous plait.</span>
+            </p>
+            <p begin="00:08:34.183" end="00:08:35.651">
+                <span>French.</span>
+            </p>
+            <p begin="00:08:34.183" end="00:08:35.651">
+                <span>Ooh.</span>
+            </p>
+            <p begin="00:08:35.718" end="00:08:37.686">
+                <span>Why don&#39;t we put it to the vote?</span>
+            </p>
+            <p begin="00:08:37.753" end="00:08:39.154">
+                <span>Oh, yeah, put it to the people.</span>
+            </p>
+            <p begin="00:08:39.221" end="00:08:40.756">
+                <span>Like they know</span>
+                <br></br>
+                <span>what they&#39;re doing. (scoffs)</span>
+            </p>
+            <p begin="00:08:40.823" end="00:08:42.758">
+                <span>Hands up who thinks</span>
+                <br></br>
+                <span>it&#39;s Thomas&#39;s turn?</span>
+            </p>
+            <p begin="00:08:43.358" end="00:08:47.996">
+                <span>I&#39;ve got my hand up,</span>
+                <br></br>
+                <span>probably. Somewhere.</span>
+            </p>
+            <p begin="00:08:48.063" end="00:08:50.532">
+                <span>Uh, ra-da-da-da-da.</span>
+                <br></br>
+                <span>Hang on, not everyone&#39;s here.</span>
+            </p>
+            <p begin="00:08:50.599" end="00:08:52.034">
+                <span>Well, where are they?</span>
+            </p>
+            <p begin="00:08:52.101" end="00:08:53.202">
+                <span>ALISON:</span>
+                <br></br>
+                <span>Oh...</span>
+            </p>
+            <p begin="00:08:53.268" end="00:08:56.505">
+                <span>my... God.</span>
+            </p>
+            <p begin="00:08:56.572" end="00:08:59.308">
+                <span>Oh, Martin&#39;s right, we&#39;re</span>
+                <br></br>
+                <span>never gonna be wedding ready.</span>
+            </p>
+            <p begin="00:08:59.374" end="00:09:03.078">
+                <span>Well, let&#39;s get redding wed--</span>
+                <br></br>
+                <span>ready ready. Uh... wed...</span>
+            </p>
+            <p begin="00:09:03.145" end="00:09:04.079">
+                <span>(ghosts arguing)</span>
+            </p>
+            <p begin="00:09:03.145" end="00:09:04.079">
+                <span>Oh, no.</span>
+            </p>
+            <p begin="00:09:04.146" end="00:09:05.614">
+                <span>Alison, if you please.</span>
+            </p>
+            <p begin="00:09:05.681" end="00:09:08.083">
+                <span>Julian says that it&#39;s his turn</span>
+                <br></br>
+                <span>to choose for film club,</span>
+            </p>
+            <p begin="00:09:08.150" end="00:09:08.684">
+                <span>but it isn&#39;t,</span>
+                <br></br>
+                <span>it&#39;s mine.</span>
+            </p>
+            <p begin="00:09:08.751" end="00:09:10.185">
+                <span>Please, everyone,</span>
+            </p>
+            <p begin="00:09:10.252" end="00:09:11.453">
+                <span>we-we&#39;re having</span>
+                <br></br>
+                <span>a bit of a crisis here.</span>
+            </p>
+            <p begin="00:09:11.520" end="00:09:13.655">
+                <span>This is a crisis.</span>
+                <br></br>
+                <span>You know. I mean...</span>
+            </p>
+            <p begin="00:09:13.722" end="00:09:15.023">
+                <span>(overlapping arguing)</span>
+            </p>
+            <p begin="00:09:15.090" end="00:09:17.159">
+                <span>Okay, guys, guys, guys...</span>
+            </p>
+            <p begin="00:09:17.226" end="00:09:19.294">
+                <span>Shut up, okay?!</span>
+            </p>
+            <p begin="00:09:19.361" end="00:09:21.663">
+                <span>Let her speak. Sorry.</span>
+                <br></br>
+                <span>You can speak.</span>
+            </p>
+            <p begin="00:09:21.730" end="00:09:23.265">
+                <span>We&#39;re trying to get</span>
+                <br></br>
+                <span>this wedding booking.</span>
+            </p>
+            <p begin="00:09:23.332" end="00:09:25.334">
+                <span>Oh, there&#39;s going to be</span>
+                <br></br>
+                <span>a wedding.</span>
+            </p>
+            <p begin="00:09:25.400" end="00:09:27.469">
+                <span>How wonderful.</span>
+            </p>
+            <p begin="00:09:27.536" end="00:09:30.439">
+                <span>The dresses, the men,</span>
+                <br></br>
+                <span>the kissing. (chuckles)</span>
+            </p>
+            <p begin="00:09:30.506" end="00:09:31.640">
+                <span>ALISON:</span>
+                <br></br>
+                <span>We need to clear</span>
+                <br></br>
+                <span>this whole garden</span>
+            </p>
+            <p begin="00:09:31.707" end="00:09:33.041">
+                <span>by 4:00. We&#39;re never</span>
+                <br></br>
+                <span>gonna do it.</span>
+            </p>
+            <p begin="00:09:33.108" end="00:09:34.243">
+                <span>Hang on a minute.</span>
+            </p>
+            <p begin="00:09:33.108" end="00:09:34.243">
+                <span>Hang on a minute.</span>
+            </p>
+            <p begin="00:09:34.309" end="00:09:36.545">
+                <span>Oh, jinx. You go first, Michael.</span>
+            </p>
+            <p begin="00:09:34.309" end="00:09:36.545">
+                <span>We can do it.</span>
+            </p>
+            <p begin="00:09:36.612" end="00:09:39.014">
+                <span>If we clear that... Hmm...</span>
+            </p>
+            <p begin="00:09:39.081" end="00:09:41.483">
+                <span>And then we move this...</span>
+            </p>
+            <p begin="00:09:39.081" end="00:09:41.483">
+                <span>(gasps) And I&#39;ll help, too.</span>
+            </p>
+            <p begin="00:09:41.550" end="00:09:43.552">
+                <span>How, Pat?</span>
+            </p>
+            <p begin="00:09:41.550" end="00:09:43.552">
+                <span>I could be your wingman.</span>
+            </p>
+            <p begin="00:09:43.619" end="00:09:45.287">
+                <span>You know, like in Top Gun.</span>
+            </p>
+            <p begin="00:09:45.354" end="00:09:48.190">
+                <span>I can be Goose</span>
+                <br></br>
+                <span>to your Maverick, yeah.</span>
+            </p>
+            <p begin="00:09:48.257" end="00:09:50.259">
+                <span>I&#39;d keep this lot occupied while</span>
+                <br></br>
+                <span>you do what you have to do,</span>
+            </p>
+            <p begin="00:09:50.325" end="00:09:52.361">
+                <span>and Goose dies in the film,</span>
+            </p>
+            <p begin="00:09:52.427" end="00:09:54.363">
+                <span>so, you know, works out,</span>
+                <br></br>
+                <span>doesn&#39;t it?</span>
+            </p>
+            <p begin="00:09:54.429" end="00:09:56.064">
+                <span>Thanks, Pat.</span>
+            </p>
+            <p begin="00:09:54.429" end="00:09:56.064">
+                <span>PAT: Yeah.</span>
+            </p>
+            <p begin="00:09:56.131" end="00:09:58.133">
+                <span>MIKE:</span>
+                <br></br>
+                <span>Yeah, of course</span>
+                <br></br>
+                <span>we can fit a marquee in.</span>
+            </p>
+            <p begin="00:09:58.200" end="00:10:00.035">
+                <span>Like, how hard can it be?</span>
+                <br></br>
+                <span>They put a man on the moon.</span>
+            </p>
+            <p begin="00:10:00.102" end="00:10:02.271">
+                <span>What? What? What&#39;d he say?</span>
+            </p>
+            <p begin="00:10:02.337" end="00:10:03.438">
+                <span>D...</span>
+            </p>
+            <p begin="00:10:02.337" end="00:10:03.438">
+                <span>Uh...</span>
+            </p>
+            <p begin="00:10:03.505" end="00:10:05.007">
+                <span>Man on moon-ah?</span>
+            </p>
+            <p begin="00:10:05.073" end="00:10:06.375">
+                <span>MIKE:</span>
+                <br></br>
+                <span>Okay, I&#39;ll go get the tools.</span>
+            </p>
+            <p begin="00:10:06.441" end="00:10:07.976">
+                <span>You check the measurements.</span>
+                <br></br>
+                <span>Let&#39;s get redding red...</span>
+            </p>
+            <p begin="00:10:08.043" end="00:10:09.077">
+                <span>Wedding ready.</span>
+            </p>
+            <p begin="00:10:08.043" end="00:10:09.077">
+                <span>Wedding...</span>
+            </p>
+            <p begin="00:10:09.144" end="00:10:10.212">
+                <span>Wedding ready.</span>
+            </p>
+            <p begin="00:10:09.144" end="00:10:10.212">
+                <span>Let&#39;s get wedry...</span>
+            </p>
+            <p begin="00:10:10.279" end="00:10:11.213">
+                <span>It&#39;s wedding ready.</span>
+            </p>
+            <p begin="00:10:11.280" end="00:10:13.248">
+                <span>Let&#39;s do this. Yes!</span>
+            </p>
+            <p begin="00:10:13.315" end="00:10:14.583">
+                <span>MARY:</span>
+                <br></br>
+                <span>Alison,</span>
+            </p>
+            <p begin="00:10:14.650" end="00:10:17.553">
+                <span>what was the man doing</span>
+                <br></br>
+                <span>up there on the moon?</span>
+            </p>
+            <p begin="00:10:17.619" end="00:10:19.288">
+                <span>They went to explore.</span>
+            </p>
+            <p begin="00:10:19.354" end="00:10:20.622">
+                <span>Oh.</span>
+            </p>
+            <p begin="00:10:19.354" end="00:10:20.622">
+                <span>THOMAS: And how</span>
+                <br></br>
+                <span>did he get there?</span>
+            </p>
+            <p begin="00:10:20.689" end="00:10:22.157">
+                <span>Climb up a beanstalk,</span>
+                <br></br>
+                <span>did he?</span>
+            </p>
+            <p begin="00:10:22.224" end="00:10:23.392">
+                <span>ROBIN:</span>
+                <br></br>
+                <span>I don&#39;t believe it.</span>
+            </p>
+            <p begin="00:10:23.458" end="00:10:24.660">
+                <span>No. No.</span>
+            </p>
+            <p begin="00:10:24.726" end="00:10:26.595">
+                <span>There&#39;s no way</span>
+                <br></br>
+                <span>it could happen.</span>
+            </p>
+            <p begin="00:10:26.662" end="00:10:29.431">
+                <span>Pat, now would be a really good</span>
+                <br></br>
+                <span>moment to be a wingman.</span>
+            </p>
+            <p begin="00:10:29.498" end="00:10:32.234">
+                <span>Great. Okay, everyone,</span>
+                <br></br>
+                <span>let&#39;s turn and burn.</span>
+            </p>
+            <p begin="00:10:32.301" end="00:10:35.103">
+                <span>Oh, sorry, Mary.</span>
+                <br></br>
+                <span>It&#39;s a quote from Top Gun.</span>
+            </p>
+            <p begin="00:10:39.741" end="00:10:40.676">
+                <span>PAT:</span>
+                <br></br>
+                <span>Think about it, Robin.</span>
+            </p>
+            <p begin="00:13:39.742" end="00:13:40.777">
+                <span>Man has always</span>
+                <br></br>
+                <span>looked up</span>
+            </p>
+            <p begin="00:13:40.844" end="00:13:41.778">
+                <span>at the moon and thought...</span>
+            </p>
+            <p begin="00:13:41.845" end="00:13:43.179">
+                <span>Can you eat it?</span>
+            </p>
+            <p begin="00:13:43.246" end="00:13:45.148">
+                <span>No, can you walk on it?</span>
+            </p>
+            <p begin="00:13:45.215" end="00:13:46.616">
+                <span>Press play.</span>
+            </p>
+            <p begin="00:13:46.683" end="00:13:47.951">
+                <span>(music playing over video)</span>
+            </p>
+            <p begin="00:13:48.017" end="00:13:49.219">
+                <span>NARRATOR (over video):</span>
+                <br></br>
+                <span>In 1969,</span>
+            </p>
+            <p begin="00:13:49.285" end="00:13:51.120">
+                <span>the world watched in wonder...</span>
+            </p>
+            <p begin="00:13:49.285" end="00:13:51.120">
+                <span>Thanks, Pat.</span>
+            </p>
+            <p begin="00:13:51.187" end="00:13:52.589">
+                <span>...as three brave astronauts</span>
+            </p>
+            <p begin="00:13:52.655" end="00:13:54.991">
+                <span>took off from Cape Canaveral.</span>
+            </p>
+            <p begin="00:13:55.058" end="00:13:57.193">
+                <span>Their destination: the moon.</span>
+            </p>
+            <p begin="00:13:57.260" end="00:13:58.962">
+                <span>ROBIN: Ooh.</span>
+            </p>
+            <p begin="00:13:57.260" end="00:13:58.962">
+                <span>PAT: It&#39;s an amazing moment.</span>
+            </p>
+            <p begin="00:13:59.028" end="00:14:01.064">
+                <span>Everyone remembers</span>
+                <br></br>
+                <span>where they were.</span>
+            </p>
+            <p begin="00:14:01.130" end="00:14:03.499">
+                <span>I was with Carole,</span>
+                <br></br>
+                <span>at her parents&#39;.</span>
+            </p>
+            <p begin="00:14:03.566" end="00:14:05.268">
+                <span>JULIAN:</span>
+                <br></br>
+                <span>I missed the whole thing.</span>
+            </p>
+            <p begin="00:14:05.335" end="00:14:07.437">
+                <span>I was still a student</span>
+                <br></br>
+                <span>at Cambridge.</span>
+            </p>
+            <p begin="00:14:07.503" end="00:14:10.340">
+                <span>Busy having my own</span>
+                <br></br>
+                <span>moon landing,</span>
+            </p>
+            <p begin="00:14:10.406" end="00:14:12.342">
+                <span>if you know</span>
+                <br></br>
+                <span>what I mean.</span>
+            </p>
+            <p begin="00:14:12.408" end="00:14:14.410">
+                <span>My first threeso...</span>
+            </p>
+            <p begin="00:14:12.408" end="00:14:14.410">
+                <span>Moon-ah.</span>
+            </p>
+            <p begin="00:14:14.477" end="00:14:16.212">
+                <span>CAPTAIN:</span>
+                <br></br>
+                <span>Ah, there you are.</span>
+            </p>
+            <p begin="00:14:17.547" end="00:14:19.249">
+                <span>What&#39;s going on here?</span>
+            </p>
+            <p begin="00:14:17.547" end="00:14:19.249">
+                <span>Oh.</span>
+            </p>
+            <p begin="00:14:19.315" end="00:14:21.351">
+                <span>I&#39;m helping Alison, yes.</span>
+            </p>
+            <p begin="00:14:21.417" end="00:14:24.220">
+                <span>Keeping this lot busy while</span>
+                <br></br>
+                <span>she and Mike dig up the garden.</span>
+            </p>
+            <p begin="00:14:25.755" end="00:14:27.757">
+                <span>Which garden?</span>
+            </p>
+            <p begin="00:14:27.824" end="00:14:29.392">
+                <span>How you getting on?</span>
+            </p>
+            <p begin="00:14:29.459" end="00:14:31.427">
+                <span>It&#39;s gonna be a squeeze. First,</span>
+            </p>
+            <p begin="00:14:31.494" end="00:14:32.695">
+                <span>we have to clear</span>
+                <br></br>
+                <span>all of this.</span>
+            </p>
+            <p begin="00:14:32.762" end="00:14:34.097">
+                <span>CAPTAIN:</span>
+                <br></br>
+                <span>No! No.</span>
+            </p>
+            <p begin="00:14:34.163" end="00:14:35.431">
+                <span>Belay that order, Michael.</span>
+            </p>
+            <p begin="00:14:35.498" end="00:14:36.699">
+                <span>You can&#39;t dig there.</span>
+                <br></br>
+                <span>That&#39;s a negative.</span>
+            </p>
+            <p begin="00:14:36.766" end="00:14:38.401">
+                <span>Wait, sorry. One second, Mike.</span>
+            </p>
+            <p begin="00:14:38.468" end="00:14:40.036">
+                <span>Didn&#39;t you tell</span>
+                <br></br>
+                <span>them we&#39;re busy?</span>
+            </p>
+            <p begin="00:14:40.103" end="00:14:42.538">
+                <span>Most of them are</span>
+                <br></br>
+                <span>watching YouTube.</span>
+            </p>
+            <p begin="00:14:40.103" end="00:14:42.538">
+                <span>Jel.</span>
+            </p>
+            <p begin="00:14:42.605" end="00:14:44.440">
+                <span>Why can&#39;t we dig there?</span>
+            </p>
+            <p begin="00:14:44.507" end="00:14:46.542">
+                <span>Because that&#39;s a very special</span>
+                <br></br>
+                <span>part of the garden.</span>
+            </p>
+            <p begin="00:14:46.609" end="00:14:49.646">
+                <span>Uh, that was where our allotment</span>
+                <br></br>
+                <span>was, the regimental allotment.</span>
+            </p>
+            <p begin="00:14:49.712" end="00:14:51.381">
+                <span>Okay, it&#39;s fine, Mike,</span>
+                <br></br>
+                <span>you can just keep digging.</span>
+            </p>
+            <p begin="00:14:51.447" end="00:14:53.049">
+                <span>Uh, no, th-that&#39;s where</span>
+                <br></br>
+                <span>we buried our pets.</span>
+            </p>
+            <p begin="00:14:53.116" end="00:14:55.218">
+                <span>Um, uh, my dog</span>
+                <br></br>
+                <span>is buried there.</span>
+            </p>
+            <p begin="00:14:55.285" end="00:14:56.953">
+                <span>Right there, and</span>
+                <br></br>
+                <span>he was very special to me.</span>
+            </p>
+            <p begin="00:14:57.020" end="00:14:58.655">
+                <span>Barry. Barry? Barry.</span>
+            </p>
+            <p begin="00:14:58.721" end="00:15:00.356">
+                <span>Wait, Mike. (sighs)</span>
+            </p>
+            <p begin="00:15:00.423" end="00:15:03.059">
+                <span>So, sorry, you had a dog</span>
+                <br></br>
+                <span>called Barry?</span>
+            </p>
+            <p begin="00:15:03.126" end="00:15:04.560">
+                <span>Mm-hmm.</span>
+            </p>
+            <p begin="00:15:04.627" end="00:15:06.496">
+                <span>Okay. Mike, you can</span>
+                <br></br>
+                <span>just carry on.</span>
+            </p>
+            <p begin="00:15:06.562" end="00:15:09.232">
+                <span>No, thank you, Michael. Ow.</span>
+                <br></br>
+                <span>Oh, that was a deep one.</span>
+            </p>
+            <p begin="00:15:09.299" end="00:15:10.400">
+                <span>(groans)</span>
+            </p>
+            <p begin="00:15:10.466" end="00:15:12.535">
+                <span>Call him off. Call him</span>
+                <br></br>
+                <span>off, I tell you.</span>
+            </p>
+            <p begin="00:15:12.602" end="00:15:14.604">
+                <span>Okay. Wait just</span>
+                <br></br>
+                <span>one second, Mike.</span>
+            </p>
+            <p begin="00:15:14.671" end="00:15:17.373">
+                <span>When I was at Button House,</span>
+                <br></br>
+                <span>there was a war on.</span>
+            </p>
+            <p begin="00:15:17.440" end="00:15:19.375">
+                <span>I don&#39;t think that&#39;s</span>
+                <br></br>
+                <span>ever come up before.</span>
+            </p>
+            <p begin="00:15:19.442" end="00:15:22.545">
+                <span>There is something buried down</span>
+                <br></br>
+                <span>there that is very sensitive.</span>
+            </p>
+            <p begin="00:15:22.612" end="00:15:24.080">
+                <span>Captain, the war is over.</span>
+            </p>
+            <p begin="00:15:24.147" end="00:15:25.548">
+                <span>Please.</span>
+            </p>
+            <p begin="00:15:25.615" end="00:15:27.984">
+                <span>Don&#39;t dig.</span>
+            </p>
+            <p begin="00:15:28.051" end="00:15:30.053">
+                <span>There&#39;s something down there</span>
+            </p>
+            <p begin="00:15:30.119" end="00:15:32.689">
+                <span>that is potentially explosive</span>
+                <br></br>
+                <span>if it gets out.</span>
+            </p>
+            <p begin="00:15:35.458" end="00:15:38.695">
+                <span>Uh... Mike, do you think we</span>
+                <br></br>
+                <span>can clear the other side?</span>
+            </p>
+            <p begin="00:15:38.761" end="00:15:41.264">
+                <span>Just the other side, Michael.</span>
+            </p>
+            <p begin="00:15:41.331" end="00:15:42.665">
+                <span>(scoffs) Looks like</span>
+                <br></br>
+                <span>a lot of work.</span>
+            </p>
+            <p begin="00:15:42.732" end="00:15:45.068">
+                <span>Sorry, it&#39;s a ghost thing.</span>
+            </p>
+            <p begin="00:15:42.732" end="00:15:45.068">
+                <span>Well...</span>
+            </p>
+            <p begin="00:15:46.135" end="00:15:48.237">
+                <span>Yeah.</span>
+            </p>
+            <p begin="00:15:54.077" end="00:15:55.011">
+                <span>(whistle blows in distance)</span>
+            </p>
+            <p begin="00:15:55.078" end="00:15:58.147">
+                <span>(officers shouting commands)</span>
+            </p>
+            <p begin="00:15:59.382" end="00:16:00.416">
+                <span>(knock on door)</span>
+            </p>
+            <p begin="00:16:00.483" end="00:16:02.251">
+                <span>Come.</span>
+            </p>
+            <p begin="00:16:05.421" end="00:16:07.657">
+                <span>Ah, Havers.</span>
+            </p>
+            <p begin="00:16:07.724" end="00:16:10.059">
+                <span>Yeah, at ease, at ease.</span>
+                <br></br>
+                <span>I was just</span>
+            </p>
+            <p begin="00:16:10.126" end="00:16:11.527">
+                <span>thinking about you, actually.</span>
+            </p>
+            <p begin="00:16:11.594" end="00:16:13.563">
+                <span>How is the emergency</span>
+                <br></br>
+                <span>lockdown coming?</span>
+            </p>
+            <p begin="00:16:11.594" end="00:16:13.563">
+                <span>Very good, sir.</span>
+            </p>
+            <p begin="00:16:13.629" end="00:16:15.498">
+                <span>Most items have been</span>
+                <br></br>
+                <span>squared away, as per the order.</span>
+            </p>
+            <p begin="00:16:15.565" end="00:16:16.666">
+                <span>Excellent.</span>
+            </p>
+            <p begin="00:16:16.733" end="00:16:19.369">
+                <span>BOTH:</span>
+                <br></br>
+                <span>I&#39;ve come to tell you that...</span>
+            </p>
+            <p begin="00:16:19.435" end="00:16:21.204">
+                <span>Sorry, you first,</span>
+                <br></br>
+                <span>Lieutenant.</span>
+            </p>
+            <p begin="00:16:21.270" end="00:16:22.605">
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:16:22.672" end="00:16:24.474">
+                <span>I&#39;m afraid I&#39;m leaving you, sir.</span>
+            </p>
+            <p begin="00:16:25.875" end="00:16:27.410">
+                <span>At 1800 hours this evening.</span>
+            </p>
+            <p begin="00:16:27.477" end="00:16:29.412">
+                <span>So soon.</span>
+            </p>
+            <p begin="00:16:30.646" end="00:16:32.348">
+                <span>Of course. Yes.</span>
+            </p>
+            <p begin="00:16:32.415" end="00:16:33.750">
+                <span>It&#39;s North Africa,</span>
+                <br></br>
+                <span>sir.</span>
+            </p>
+            <p begin="00:16:33.816" end="00:16:36.252">
+                <span>I&#39;ll be able to have</span>
+                <br></br>
+                <span>a proper swing at Fritz.</span>
+            </p>
+            <p begin="00:16:36.319" end="00:16:39.288">
+                <span>You make sure you give him</span>
+                <br></br>
+                <span>a bloody nose.</span>
+            </p>
+            <p begin="00:16:39.355" end="00:16:41.824">
+                <span>I shall miss you, Havers.</span>
+            </p>
+            <p begin="00:16:43.526" end="00:16:46.129">
+                <span>(stammers) By which I mean,</span>
+                <br></br>
+                <span>of course, that we</span>
+            </p>
+            <p begin="00:16:46.195" end="00:16:48.064">
+                <span>shall miss you.</span>
+            </p>
+            <p begin="00:16:46.195" end="00:16:48.064">
+                <span>Well...</span>
+            </p>
+            <p begin="00:16:48.131" end="00:16:49.165">
+                <span>if that&#39;s all...</span>
+            </p>
+            <p begin="00:16:50.633" end="00:16:51.467">
+                <span>Yeah.</span>
+            </p>
+            <p begin="00:16:53.302" end="00:16:54.270">
+                <span>(door opens)</span>
+            </p>
+            <p begin="00:16:53.302" end="00:16:54.270">
+                <span>I say, Havers...</span>
+            </p>
+            <p begin="00:16:57.106" end="00:16:58.574">
+                <span>It&#39;s a bally shame</span>
+            </p>
+            <p begin="00:16:58.641" end="00:17:00.176">
+                <span>we won&#39;t get to finish</span>
+                <br></br>
+                <span>the operation together.</span>
+            </p>
+            <p begin="00:17:04.180" end="00:17:05.581">
+                <span>(door closes)</span>
+            </p>
+            <p begin="00:17:13.723" end="00:17:15.258">
+                <span>(music playing over video)</span>
+            </p>
+            <p begin="00:17:15.324" end="00:17:16.325">
+                <span>NARRATOR (over video):</span>
+                <br></br>
+                <span>Which leads to the question:</span>
+            </p>
+            <p begin="00:17:16.392" end="00:17:19.128">
+                <span>where next? Mars?</span>
+            </p>
+            <p begin="00:17:19.195" end="00:17:20.596">
+                <span>Or even the outer edge</span>
+            </p>
+            <p begin="00:17:20.663" end="00:17:21.764">
+                <span>of our solar system?</span>
+            </p>
+            <p begin="00:17:21.831" end="00:17:24.700">
+                <span>Only time will tell.</span>
+            </p>
+            <p begin="00:17:24.767" end="00:17:27.103">
+                <span>Well, I never.</span>
+            </p>
+            <p begin="00:17:27.170" end="00:17:29.439">
+                <span>Anyway, film club...</span>
+            </p>
+            <p begin="00:17:27.170" end="00:17:29.439">
+                <span>Yes, now,</span>
+            </p>
+            <p begin="00:17:29.505" end="00:17:32.208">
+                <span>I was thinking</span>
+                <br></br>
+                <span>9 1/2 Weeks.</span>
+            </p>
+            <p begin="00:17:32.275" end="00:17:34.210">
+                <span>Over my already dead</span>
+                <br></br>
+                <span>body, sir.</span>
+            </p>
+            <p begin="00:17:34.277" end="00:17:35.211">
+                <span>Fine by me.</span>
+            </p>
+            <p begin="00:17:35.278" end="00:17:36.212">
+                <span>Guys, guys, look, why don&#39;t we</span>
+            </p>
+            <p begin="00:17:36.279" end="00:17:38.481">
+                <span>settle this properly, okay?</span>
+            </p>
+            <p begin="00:17:38.548" end="00:17:40.516">
+                <span>Quite right.</span>
+                <br></br>
+                <span>We&#39;ll settle this like men.</span>
+            </p>
+            <p begin="00:17:40.583" end="00:17:42.218">
+                <span>Would you care</span>
+                <br></br>
+                <span>to step outside, sir?</span>
+            </p>
+            <p begin="00:17:42.285" end="00:17:44.187">
+                <span>Indeed, sir.</span>
+            </p>
+            <p begin="00:17:44.253" end="00:17:46.989">
+                <span>Guys, you don&#39;t</span>
+                <br></br>
+                <span>have to do...</span>
+            </p>
+            <p begin="00:17:47.056" end="00:17:49.625">
+                <span>Where are you going? I promised</span>
+                <br></br>
+                <span>Alison that you wouldn&#39;t... Oh.</span>
+            </p>
+            <p begin="00:17:49.692" end="00:17:53.029">
+                <span>Oh. (groans)</span>
+            </p>
+            <p begin="00:17:53.096" end="00:17:56.432">
+                <span>NARRATOR (over video):</span>
+                <br></br>
+                <span>Okay, the moon landings.</span>
+                <br></br>
+                <span>Everybody says</span>
+            </p>
+            <p begin="00:17:56.499" end="00:17:58.134">
+                <span>it&#39;s real,</span>
+                <br></br>
+                <span>but what if that&#39;s just</span>
+            </p>
+            <p begin="00:17:58.201" end="00:17:59.635">
+                <span>what they wanted you</span>
+                <br></br>
+                <span>to believe?</span>
+            </p>
+            <p begin="00:18:02.138" end="00:18:04.273">
+                <span>Right. You both know the rules.</span>
+            </p>
+            <p begin="00:18:04.340" end="00:18:06.109">
+                <span>So we&#39;re agreed.</span>
+            </p>
+            <p begin="00:18:06.175" end="00:18:07.543">
+                <span>Solve this once and for all.</span>
+            </p>
+            <p begin="00:18:07.610" end="00:18:09.412">
+                <span>On three.</span>
+            </p>
+            <p begin="00:18:09.479" end="00:18:12.748">
+                <span>One, two, three.</span>
+            </p>
+            <p begin="00:18:14.117" end="00:18:16.085">
+                <span>What&#39;s that supposed to be?</span>
+            </p>
+            <p begin="00:18:14.117" end="00:18:16.085">
+                <span>THOMAS: Pistol.</span>
+            </p>
+            <p begin="00:18:16.152" end="00:18:19.055">
+                <span>Thomas, that&#39;s...</span>
+            </p>
+            <p begin="00:18:16.152" end="00:18:19.055">
+                <span>I always choose pistol.</span>
+            </p>
+            <p begin="00:18:19.122" end="00:18:20.289">
+                <span>Oh, yeah, it really worked out</span>
+                <br></br>
+                <span>for you last time, didn&#39;t it?</span>
+            </p>
+            <p begin="00:18:20.356" end="00:18:21.390">
+                <span>(snorts)</span>
+            </p>
+            <p begin="00:18:20.356" end="00:18:21.390">
+                <span>There were</span>
+                <br></br>
+                <span>circumstances</span>
+            </p>
+            <p begin="00:18:21.457" end="00:18:23.526">
+                <span>around my death,</span>
+                <br></br>
+                <span>I&#39;ll have you know, sir.</span>
+            </p>
+            <p begin="00:18:23.593" end="00:18:26.062">
+                <span>It&#39;s, uh, rock, paper, scissors,</span>
+                <br></br>
+                <span>Thomas. Thought I told you.</span>
+            </p>
+            <p begin="00:18:26.129" end="00:18:27.430">
+                <span>No, it&#39;s all right,</span>
+                <br></br>
+                <span>let&#39;s play it his way.</span>
+            </p>
+            <p begin="00:18:27.497" end="00:18:29.732">
+                <span>One, two, three.</span>
+            </p>
+            <p begin="00:18:29.799" end="00:18:30.733">
+                <span>(clicks tongue)</span>
+            </p>
+            <p begin="00:18:30.800" end="00:18:32.668">
+                <span>(imitates machine gun)</span>
+            </p>
+            <p begin="00:18:32.735" end="00:18:33.669">
+                <span>What&#39;s this now?</span>
+            </p>
+            <p begin="00:18:33.736" end="00:18:35.404">
+                <span>AK-47 assault rifle.</span>
+            </p>
+            <p begin="00:18:35.471" end="00:18:37.340">
+                <span>Sold 50 crates</span>
+                <br></br>
+                <span>of these bad boys</span>
+            </p>
+            <p begin="00:18:37.406" end="00:18:38.407">
+                <span>to the Libyans in &#39;83.</span>
+            </p>
+            <p begin="00:18:38.474" end="00:18:39.709">
+                <span>You can have</span>
+                <br></br>
+                <span>one of these as well.</span>
+            </p>
+            <p begin="00:18:39.775" end="00:18:42.178">
+                <span>Well, you don&#39;t get two weapons.</span>
+            </p>
+            <p begin="00:18:39.775" end="00:18:42.178">
+                <span>(imitates explosion)</span>
+            </p>
+            <p begin="00:18:42.245" end="00:18:43.646">
+                <span>Oh, Julian, come on.</span>
+            </p>
+            <p begin="00:18:42.245" end="00:18:43.646">
+                <span>And this.</span>
+            </p>
+            <p begin="00:18:43.713" end="00:18:46.082">
+                <span>(imitating flamethrower)</span>
+            </p>
+            <p begin="00:18:46.149" end="00:18:48.084">
+                <span>You&#39;re on fire, mate. Aah!</span>
+            </p>
+            <p begin="00:18:46.149" end="00:18:48.084">
+                <span>THOMAS: What?</span>
+            </p>
+            <p begin="00:18:48.151" end="00:18:50.086">
+                <span>PAT: Sorry, Mary.</span>
+            </p>
+            <p begin="00:18:48.151" end="00:18:50.086">
+                <span>Well, no...</span>
+            </p>
+            <p begin="00:18:50.153" end="00:18:51.521">
+                <span>Sorry.</span>
+            </p>
+            <p begin="00:18:50.153" end="00:18:51.521">
+                <span>(screams)</span>
+            </p>
+            <p begin="00:18:51.587" end="00:18:52.421">
+                <span>Can&#39;t feel it.</span>
+                <br></br>
+                <span>Nothing happening.</span>
+            </p>
+            <p begin="00:18:51.587" end="00:18:52.421">
+                <span>I&#39;m melting.</span>
+            </p>
+            <p begin="00:18:57.293" end="00:18:58.461">
+                <span>MIKE:</span>
+                <br></br>
+                <span>What should we do with all this?</span>
+            </p>
+            <p begin="00:18:58.528" end="00:18:59.695">
+                <span>Maybe just pile it up</span>
+                <br></br>
+                <span>over there,</span>
+            </p>
+            <p begin="00:18:59.762" end="00:19:01.998">
+                <span>and then we&#39;ll deal</span>
+                <br></br>
+                <span>with it later.</span>
+            </p>
+            <p begin="00:19:02.064" end="00:19:03.266">
+                <span>I think we might just do this.</span>
+            </p>
+            <p begin="00:19:04.767" end="00:19:06.369">
+                <span>Oh, great.</span>
+            </p>
+            <p begin="00:19:06.435" end="00:19:07.503">
+                <span>How are we gonna</span>
+                <br></br>
+                <span>move that?</span>
+            </p>
+            <p begin="00:19:09.071" end="00:19:10.239">
+                <span>I think we might</span>
+                <br></br>
+                <span>have to break it up</span>
+            </p>
+            <p begin="00:19:10.306" end="00:19:12.241">
+                <span>with a big hammer or something.</span>
+            </p>
+            <p begin="00:19:12.308" end="00:19:14.043">
+                <span>What? We can&#39;t do that.</span>
+                <br></br>
+                <span>Can we?</span>
+            </p>
+            <p begin="00:19:14.110" end="00:19:16.646">
+                <span>Yeah, why not?</span>
+            </p>
+            <p begin="00:19:14.110" end="00:19:16.646">
+                <span>Florence.</span>
+            </p>
+            <p begin="00:19:16.712" end="00:19:18.114">
+                <span>Oh, wait.</span>
+            </p>
+            <p begin="00:19:18.181" end="00:19:19.782">
+                <span>Can already tell</span>
+                <br></br>
+                <span>this isn&#39;t good news.</span>
+            </p>
+            <p begin="00:19:19.849" end="00:19:21.284">
+                <span>Who&#39;s Florence, Kitty?</span>
+            </p>
+            <p begin="00:19:21.350" end="00:19:23.419">
+                <span>She was one of my</span>
+                <br></br>
+                <span>best friends.</span>
+            </p>
+            <p begin="00:19:23.486" end="00:19:25.288">
+                <span>I used to play hide-and-seek</span>
+                <br></br>
+                <span>in the garden</span>
+            </p>
+            <p begin="00:19:25.354" end="00:19:27.723">
+                <span>with my sister, and I was</span>
+                <br></br>
+                <span>so good at hiding</span>
+            </p>
+            <p begin="00:19:27.790" end="00:19:32.128">
+                <span>that often she couldn&#39;t find me</span>
+                <br></br>
+                <span>for a whole day and night.</span>
+            </p>
+            <p begin="00:19:32.195" end="00:19:35.198">
+                <span>I once got so hungry, I had to</span>
+                <br></br>
+                <span>eat a bit of my purse.</span>
+            </p>
+            <p begin="00:19:35.264" end="00:19:37.633">
+                <span>Florence kept me company.</span>
+            </p>
+            <p begin="00:19:35.264" end="00:19:37.633">
+                <span>Oh,</span>
+            </p>
+            <p begin="00:19:37.700" end="00:19:39.035">
+                <span>so you made a statue</span>
+                <br></br>
+                <span>of her?</span>
+            </p>
+            <p begin="00:19:39.101" end="00:19:40.269">
+                <span>No, she is a statue.</span>
+            </p>
+            <p begin="00:19:40.336" end="00:19:41.704">
+                <span>So we smashing this up or what?</span>
+            </p>
+            <p begin="00:19:41.771" end="00:19:43.139">
+                <span>(wailing)</span>
+            </p>
+            <p begin="00:19:43.206" end="00:19:45.007">
+                <span>Sorry, one sec, Mike.</span>
+                <br></br>
+                <span>No, Kitty, please,</span>
+            </p>
+            <p begin="00:19:45.074" end="00:19:46.309">
+                <span>oh, please stop.</span>
+                <br></br>
+                <span>Please, um,</span>
+            </p>
+            <p begin="00:19:46.375" end="00:19:47.577">
+                <span>we won&#39;t, we won&#39;t</span>
+                <br></br>
+                <span>destroy Florence.</span>
+            </p>
+            <p begin="00:19:47.643" end="00:19:49.111">
+                <span>We&#39;re just gonna,</span>
+                <br></br>
+                <span>uh...</span>
+            </p>
+            <p begin="00:19:49.178" end="00:19:51.480">
+                <span>We could move her.</span>
+            </p>
+            <p begin="00:19:49.178" end="00:19:51.480">
+                <span>It&#39;s a deal.</span>
+            </p>
+            <p begin="00:19:51.547" end="00:19:53.282">
+                <span>As long as you play</span>
+                <br></br>
+                <span>hide-and-seek with me.</span>
+            </p>
+            <p begin="00:19:53.349" end="00:19:55.117">
+                <span>(chuckles)</span>
+            </p>
+            <p begin="00:19:55.184" end="00:19:56.252">
+                <span>So we&#39;re moving her?</span>
+            </p>
+            <p begin="00:19:55.184" end="00:19:56.252">
+                <span>Yeah, sorry.</span>
+            </p>
+            <p begin="00:19:57.620" end="00:19:59.088">
+                <span>I think you might be an expert</span>
+                <br></br>
+                <span>at this game.</span>
+            </p>
+            <p begin="00:19:59.155" end="00:20:01.090">
+                <span>I&#39;m very good at it, yes.</span>
+            </p>
+            <p begin="00:20:01.157" end="00:20:03.459">
+                <span>(chuckles) Okay.</span>
+                <br></br>
+                <span>Well, you hide first.</span>
+            </p>
+            <p begin="00:20:03.526" end="00:20:04.460">
+                <span>(both giggle)</span>
+            </p>
+            <p begin="00:20:04.527" end="00:20:05.595">
+                <span>One.</span>
+            </p>
+            <p begin="00:20:05.661" end="00:20:07.396">
+                <span>You&#39;ll never find me, Alison.</span>
+            </p>
+            <p begin="00:20:05.661" end="00:20:07.396">
+                <span>Two.</span>
+            </p>
+            <p begin="00:20:07.463" end="00:20:09.165">
+                <span>Three. Okay.</span>
+            </p>
+            <p begin="00:20:14.170" end="00:20:16.105">
+                <span>NARRATOR (over video):</span>
+                <br></br>
+                <span>And that&#39;s why we need</span>
+                <br></br>
+                <span>to look seriously</span>
+            </p>
+            <p begin="00:23:00.172" end="00:23:02.474">
+                <span>at the grassy knoll.</span>
+                <br></br>
+                <span>I mean, look at those angles.</span>
+            </p>
+            <p begin="00:23:02.541" end="00:23:05.777">
+                <span>NARRATOR 2:</span>
+                <br></br>
+                <span>&#39;Cause Elvis Presley did not</span>
+                <br></br>
+                <span>die that day on the toilet.</span>
+            </p>
+            <p begin="00:23:05.844" end="00:23:06.745">
+                <span>NARRATOR 3:</span>
+                <br></br>
+                <span>That&#39;s how we know</span>
+            </p>
+            <p begin="00:23:06.812" end="00:23:10.382">
+                <span>the British monarchy</span>
+                <br></br>
+                <span>was replaced by weasels.</span>
+            </p>
+            <p begin="00:23:10.449" end="00:23:11.750">
+                <span>Mm-hmm.</span>
+            </p>
+            <p begin="00:23:11.817" end="00:23:13.785">
+                <span>Hello, Alison.</span>
+            </p>
+            <p begin="00:23:15.554" end="00:23:17.356">
+                <span>(Kitty giggling)</span>
+            </p>
+            <p begin="00:23:23.228" end="00:23:24.162">
+                <span>Oh...</span>
+            </p>
+            <p begin="00:23:24.229" end="00:23:25.564">
+                <span>Oh, you found me.</span>
+            </p>
+            <p begin="00:23:25.631" end="00:23:26.798">
+                <span>Oh, I found...</span>
+            </p>
+            <p begin="00:23:26.865" end="00:23:28.300">
+                <span>Oh, you&#39;re playing, too.</span>
+                <br></br>
+                <span>(giggles)</span>
+            </p>
+            <p begin="00:23:28.367" end="00:23:30.335">
+                <span>I don&#39;t know-- Yes. (laughs)</span>
+            </p>
+            <p begin="00:23:30.402" end="00:23:33.305">
+                <span>No one has ever</span>
+                <br></br>
+                <span>found me before, ever.</span>
+            </p>
+            <p begin="00:23:33.372" end="00:23:35.641">
+                <span>You&#39;re so good at this.</span>
+            </p>
+            <p begin="00:23:33.372" end="00:23:35.641">
+                <span>Thank you.</span>
+            </p>
+            <p begin="00:23:35.707" end="00:23:37.175">
+                <span>Right, your turn</span>
+                <br></br>
+                <span>to hide.</span>
+            </p>
+            <p begin="00:23:37.242" end="00:23:39.711">
+                <span>I&#39;ll count, you hide,</span>
+                <br></br>
+                <span>and I&#39;ll seek.</span>
+            </p>
+            <p begin="00:23:39.778" end="00:23:41.546">
+                <span>Okay.</span>
+            </p>
+            <p begin="00:23:39.778" end="00:23:41.546">
+                <span>One.</span>
+            </p>
+            <p begin="00:23:41.613" end="00:23:43.482">
+                <span>Oh, it&#39;s numbers?</span>
+            </p>
+            <p begin="00:23:41.613" end="00:23:43.482">
+                <span>Two.</span>
+            </p>
+            <p begin="00:23:43.548" end="00:23:45.751">
+                <span>(muttering)</span>
+            </p>
+            <p begin="00:23:43.548" end="00:23:45.751">
+                <span>Three.</span>
+            </p>
+            <p begin="00:23:45.817" end="00:23:48.287">
+                <span>Any luck?</span>
+            </p>
+            <p begin="00:23:45.817" end="00:23:48.287">
+                <span>(grunts)</span>
+            </p>
+            <p begin="00:23:48.353" end="00:23:50.055">
+                <span>She can&#39;t move.</span>
+            </p>
+            <p begin="00:23:50.122" end="00:23:52.658">
+                <span>(straining)</span>
+            </p>
+            <p begin="00:23:52.724" end="00:23:54.192">
+                <span>(both sigh)</span>
+            </p>
+            <p begin="00:23:54.259" end="00:23:55.260">
+                <span>(screams)</span>
+            </p>
+            <p begin="00:23:55.327" end="00:23:56.595">
+                <span>It&#39;s pointless.</span>
+            </p>
+            <p begin="00:23:56.662" end="00:23:58.230">
+                <span>(groaning)</span>
+            </p>
+            <p begin="00:23:58.297" end="00:24:00.299">
+                <span>Aw...</span>
+            </p>
+            <p begin="00:24:00.365" end="00:24:02.401">
+                <span>MIKE:</span>
+                <br></br>
+                <span>That was my favorite toe.</span>
+            </p>
+            <p begin="00:24:02.467" end="00:24:04.670">
+                <span>ALISON:</span>
+                <br></br>
+                <span>You have a favorite toe?</span>
+            </p>
+            <p begin="00:24:04.736" end="00:24:06.638">
+                <span>(giggles)</span>
+                <br></br>
+                <span>I found you!</span>
+            </p>
+            <p begin="00:24:06.705" end="00:24:08.373">
+                <span>(groans)</span>
+            </p>
+            <p begin="00:24:08.440" end="00:24:09.708">
+                <span>That was wonderful.</span>
+            </p>
+            <p begin="00:24:09.775" end="00:24:12.477">
+                <span>Now you hide and I&#39;ll count in.</span>
+            </p>
+            <p begin="00:24:09.775" end="00:24:12.477">
+                <span>Yes.</span>
+            </p>
+            <p begin="00:24:12.544" end="00:24:15.113">
+                <span>No peeking. (laughs)</span>
+            </p>
+            <p begin="00:24:12.544" end="00:24:15.113">
+                <span>Simon says &#34;No peeking.&#34;</span>
+            </p>
+            <p begin="00:24:15.180" end="00:24:17.316">
+                <span>One.</span>
+            </p>
+            <p begin="00:24:17.382" end="00:24:18.450">
+                <span>Two.</span>
+            </p>
+            <p begin="00:24:18.517" end="00:24:20.085">
+                <span>Three.</span>
+            </p>
+            <p begin="00:24:20.152" end="00:24:21.787">
+                <span>(Mary continues counting)</span>
+            </p>
+            <p begin="00:24:20.152" end="00:24:21.787">
+                <span>Oh, so done with this.</span>
+            </p>
+            <p begin="00:24:21.853" end="00:24:24.156">
+                <span>No. No.</span>
+            </p>
+            <p begin="00:24:24.222" end="00:24:26.058">
+                <span>You know what?</span>
+                <br></br>
+                <span>(grunts)</span>
+            </p>
+            <p begin="00:24:26.124" end="00:24:28.327">
+                <span>We&#39;ve cleared loads. I&#39;ll get</span>
+                <br></br>
+                <span>rid of the garden waste,</span>
+            </p>
+            <p begin="00:24:28.393" end="00:24:30.729">
+                <span>and we&#39;ll make</span>
+                <br></br>
+                <span>the best of it, huh?</span>
+            </p>
+            <p begin="00:24:28.393" end="00:24:30.729">
+                <span>Yeah.</span>
+            </p>
+            <p begin="00:24:30.796" end="00:24:32.297">
+                <span>Well, next you&#39;ll be telling me</span>
+                <br></br>
+                <span>gravity doesn&#39;t exist.</span>
+            </p>
+            <p begin="00:24:32.364" end="00:24:33.632">
+                <span>Well,</span>
+                <br></br>
+                <span>you can&#39;t see it.</span>
+            </p>
+            <p begin="00:24:33.699" end="00:24:35.600">
+                <span>How do you know?</span>
+            </p>
+            <p begin="00:24:33.699" end="00:24:35.600">
+                <span>PAT: Alison,</span>
+            </p>
+            <p begin="00:24:35.667" end="00:24:38.136">
+                <span>could you explain to Robin that</span>
+                <br></br>
+                <span>the moon landings were real?</span>
+            </p>
+            <p begin="00:24:38.203" end="00:24:41.406">
+                <span>(overlapping arguing)</span>
+            </p>
+            <p begin="00:24:41.473" end="00:24:42.574">
+                <span>MARY:</span>
+                <br></br>
+                <span>97.</span>
+            </p>
+            <p begin="00:24:42.641" end="00:24:44.476">
+                <span>98.</span>
+            </p>
+            <p begin="00:24:42.641" end="00:24:44.476">
+                <span>(Alison gasps)</span>
+            </p>
+            <p begin="00:24:44.543" end="00:24:45.277">
+                <span>MARY: 99.</span>
+            </p>
+            <p begin="00:24:44.543" end="00:24:45.277">
+                <span>What?</span>
+            </p>
+            <p begin="00:24:45.344" end="00:24:47.212">
+                <span>100.</span>
+            </p>
+            <p begin="00:24:47.279" end="00:24:48.513">
+                <span>Oh, uh...</span>
+            </p>
+            <p begin="00:24:49.614" end="00:24:52.351">
+                <span>(screaming)</span>
+            </p>
+            <p begin="00:24:54.119" end="00:24:55.454">
+                <span>What the bally hell</span>
+                <br></br>
+                <span>do you think you&#39;re playing at?</span>
+            </p>
+            <p begin="00:24:56.788" end="00:24:59.391">
+                <span>Alison, get away from there.</span>
+            </p>
+            <p begin="00:24:59.458" end="00:25:01.226">
+                <span>Get down. Get Michael out</span>
+                <br></br>
+                <span>of the way. It&#39;s gonna blow.</span>
+            </p>
+            <p begin="00:25:05.364" end="00:25:06.631">
+                <span>It&#39;s a bomb!</span>
+            </p>
+            <p begin="00:25:06.698" end="00:25:08.333">
+                <span>Mike! Mike!</span>
+                <br></br>
+                <span>Get back!</span>
+            </p>
+            <p begin="00:25:08.400" end="00:25:09.401">
+                <span>Just get back!</span>
+            </p>
+            <p begin="00:25:09.468" end="00:25:10.535">
+                <span>Down!</span>
+            </p>
+            <p begin="00:25:10.602" end="00:25:12.404">
+                <span>(distorted):</span>
+                <br></br>
+                <span>Get down!</span>
+            </p>
+            <p begin="00:25:16.441" end="00:25:18.410">
+                <span>(gasps)</span>
+            </p>
+            <p begin="00:25:18.477" end="00:25:19.411">
+                <span>GHOSTS:</span>
+                <br></br>
+                <span>Captain?</span>
+            </p>
+            <p begin="00:25:21.113" end="00:25:22.681">
+                <span>Oh.</span>
+            </p>
+            <p begin="00:25:22.748" end="00:25:23.648">
+                <span>(clears throat)</span>
+            </p>
+            <p begin="00:25:23.715" end="00:25:26.118">
+                <span>(screams)</span>
+            </p>
+            <p begin="00:25:27.586" end="00:25:29.521">
+                <span>Yeah, maybe you right</span>
+                <br></br>
+                <span>about gravity.</span>
+            </p>
+            <p begin="00:25:30.522" end="00:25:33.425">
+                <span>Now, I realize that was</span>
+                <br></br>
+                <span>an utterly futile gesture,</span>
+            </p>
+            <p begin="00:25:33.492" end="00:25:35.293">
+                <span>but I was very much caught up</span>
+                <br></br>
+                <span>in the moment. (chuckles)</span>
+            </p>
+            <p begin="00:25:35.360" end="00:25:38.029">
+                <span>Wh... What the hell was that?</span>
+            </p>
+            <p begin="00:25:38.096" end="00:25:40.132">
+                <span>Now, I was very clear, Alison.</span>
+            </p>
+            <p begin="00:25:40.198" end="00:25:43.068">
+                <span>I didn&#39;t think you meant</span>
+                <br></br>
+                <span>literally explosive.</span>
+            </p>
+            <p begin="00:25:43.135" end="00:25:45.504">
+                <span>I thought you meant,</span>
+                <br></br>
+                <span>like, it was scandalous.</span>
+            </p>
+            <p begin="00:25:43.135" end="00:25:45.504">
+                <span>No.</span>
+            </p>
+            <p begin="00:25:45.570" end="00:25:47.105">
+                <span>It was a prototype</span>
+                <br></br>
+                <span>limpet mine.</span>
+            </p>
+            <p begin="00:25:47.172" end="00:25:48.140">
+                <span>It was so secret</span>
+            </p>
+            <p begin="00:25:48.206" end="00:25:50.175">
+                <span>that only I knew about it,</span>
+            </p>
+            <p begin="00:25:50.242" end="00:25:52.177">
+                <span>and my second in command</span>
+                <br></br>
+                <span>Lieutenant Havers, but</span>
+            </p>
+            <p begin="00:25:52.244" end="00:25:54.746">
+                <span>he left me.</span>
+                <br></br>
+                <span>I mean, he left for the front,</span>
+            </p>
+            <p begin="00:25:54.813" end="00:25:57.149">
+                <span>so, uh, I had to bury it</span>
+                <br></br>
+                <span>on my own,</span>
+            </p>
+            <p begin="00:25:57.215" end="00:25:59.017">
+                <span>along with the blueprints.</span>
+            </p>
+            <p begin="00:25:59.084" end="00:26:00.419">
+                <span>Operation William it was calle.</span>
+            </p>
+            <p begin="00:26:00.485" end="00:26:01.686">
+                <span>What?</span>
+            </p>
+            <p begin="00:26:00.485" end="00:26:01.686">
+                <span>(car honks)</span>
+            </p>
+            <p begin="00:26:01.753" end="00:26:03.188">
+                <span>(gasps)</span>
+                <br></br>
+                <span>Oh, that&#39;s Martin.</span>
+            </p>
+            <p begin="00:26:03.255" end="00:26:05.190">
+                <span>That was the ghost thing?</span>
+            </p>
+            <p begin="00:26:03.255" end="00:26:05.190">
+                <span>Yeah.</span>
+            </p>
+            <p begin="00:26:05.257" end="00:26:06.758">
+                <span>Maybe next time</span>
+                <br></br>
+                <span>tell me if it&#39;s a bomb.</span>
+            </p>
+            <p begin="00:26:06.825" end="00:26:08.193">
+                <span>I didn&#39;t know.</span>
+            </p>
+            <p begin="00:26:08.260" end="00:26:09.327">
+                <span>Okay.</span>
+            </p>
+            <p begin="00:26:09.394" end="00:26:12.230">
+                <span>I&#39;ll stall Clare</span>
+                <br></br>
+                <span>and Martin in the house,</span>
+            </p>
+            <p begin="00:26:12.297" end="00:26:15.567">
+                <span>and you just... oh, you</span>
+                <br></br>
+                <span>just do what you can.</span>
+            </p>
+            <p begin="00:26:15.634" end="00:26:18.437">
+                <span>Yeah, actually a very clever</span>
+                <br></br>
+                <span>little device.</span>
+            </p>
+            <p begin="00:26:18.503" end="00:26:20.372">
+                <span>A cunning timing mechanism</span>
+            </p>
+            <p begin="00:26:20.439" end="00:26:23.442">
+                <span>in the housing allowed the</span>
+                <br></br>
+                <span>frogmen to exfiltrate safely.</span>
+            </p>
+            <p begin="00:26:23.508" end="00:26:25.710">
+                <span>And they... Oh, they&#39;ve gone,</span>
+                <br></br>
+                <span>haven&#39;t they?</span>
+            </p>
+            <p begin="00:26:27.379" end="00:26:31.183">
+                <span>And this is the</span>
+                <br></br>
+                <span>main common room, again.</span>
+            </p>
+            <p begin="00:26:31.249" end="00:26:33.452">
+                <span>And we thought that...</span>
+            </p>
+            <p begin="00:26:31.249" end="00:26:33.452">
+                <span>It is really nice,</span>
+            </p>
+            <p begin="00:26:33.518" end="00:26:36.054">
+                <span>but can we...</span>
+            </p>
+            <p begin="00:26:33.518" end="00:26:36.054">
+                <span>Did-did you want</span>
+                <br></br>
+                <span>to see the library?</span>
+            </p>
+            <p begin="00:26:36.121" end="00:26:37.389">
+                <span>Again?</span>
+            </p>
+            <p begin="00:26:37.456" end="00:26:39.157">
+                <span>I&#39;d really love</span>
+                <br></br>
+                <span>to see the garden.</span>
+            </p>
+            <p begin="00:26:43.094" end="00:26:45.263">
+                <span>Now... Clare, I...</span>
+            </p>
+            <p begin="00:26:45.330" end="00:26:47.299">
+                <span>I need you to keep an open mind.</span>
+            </p>
+            <p begin="00:26:47.365" end="00:26:49.234">
+                <span>We know that the rest</span>
+                <br></br>
+                <span>of the house can be dressed, um,</span>
+            </p>
+            <p begin="00:26:49.301" end="00:26:51.369">
+                <span>and we are working on the</span>
+                <br></br>
+                <span>garden, believe me.</span>
+            </p>
+            <p begin="00:26:51.436" end="00:26:53.071">
+                <span>Um...</span>
+            </p>
+            <p begin="00:26:58.076" end="00:26:59.010">
+                <span>(Alison gasps)</span>
+            </p>
+            <p begin="00:27:06.384" end="00:27:07.652">
+                <span>Redding weddy.</span>
+            </p>
+            <p begin="00:27:07.719" end="00:27:09.387">
+                <span>I love it.</span>
+            </p>
+            <p begin="00:27:10.589" end="00:27:12.390">
+                <span>PAT:</span>
+                <br></br>
+                <span>Okay,</span>
+            </p>
+            <p begin="00:27:12.457" end="00:27:15.660">
+                <span>so, really exciting</span>
+                <br></br>
+                <span>presentation tonight, guys.</span>
+            </p>
+            <p begin="00:27:15.727" end="00:27:18.063">
+                <span>As promised, Mary</span>
+            </p>
+            <p begin="00:27:18.129" end="00:27:19.764">
+                <span>is going to be giving a talk</span>
+            </p>
+            <p begin="00:27:19.831" end="00:27:21.299">
+                <span>about her witch trial.</span>
+            </p>
+            <p begin="00:27:21.366" end="00:27:23.101">
+                <span>No, sorry, no.</span>
+            </p>
+            <p begin="00:27:23.168" end="00:27:25.737">
+                <span>I&#39;ve had, um,</span>
+                <br></br>
+                <span>a-a-a bit of a setback.</span>
+            </p>
+            <p begin="00:27:25.804" end="00:27:27.639">
+                <span>Okay. Okay, yeah,</span>
+            </p>
+            <p begin="00:27:27.706" end="00:27:29.541">
+                <span>that&#39;s understandable, isn&#39;t it?</span>
+                <br></br>
+                <span>Given the, um...</span>
+            </p>
+            <p begin="00:27:29.608" end="00:27:31.977">
+                <span>Sorry.</span>
+            </p>
+            <p begin="00:27:29.608" end="00:27:31.977">
+                <span>Yes. So, now seeing</span>
+            </p>
+            <p begin="00:27:32.043" end="00:27:33.678">
+                <span>as, uh, we technically</span>
+                <br></br>
+                <span>didn&#39;t finish</span>
+            </p>
+            <p begin="00:27:33.745" end="00:27:35.680">
+                <span>the match,</span>
+                <br></br>
+                <span>I&#39;ve decided</span>
+            </p>
+            <p begin="00:27:35.747" end="00:27:37.649">
+                <span>that I&#39;m going to choose</span>
+                <br></br>
+                <span>the film tonight.</span>
+            </p>
+            <p begin="00:27:37.716" end="00:27:38.517">
+                <span>KITTY:</span>
+                <br></br>
+                <span>Is it Love Actually?</span>
+            </p>
+            <p begin="00:27:38.583" end="00:27:40.552">
+                <span>I love Love Actually, actually.</span>
+            </p>
+            <p begin="00:27:40.619" end="00:27:42.187">
+                <span>9 1/2 Weeks.</span>
+            </p>
+            <p begin="00:27:40.619" end="00:27:42.187">
+                <span>The Notebook.</span>
+            </p>
+            <p begin="00:27:42.254" end="00:27:43.955">
+                <span>Please don&#39;t shout out,</span>
+                <br></br>
+                <span>okay? (chuckles)</span>
+            </p>
+            <p begin="00:27:44.022" end="00:27:46.958">
+                <span>The film I&#39;ve chosen</span>
+                <br></br>
+                <span>has something for everyone.</span>
+            </p>
+            <p begin="00:27:47.025" end="00:27:49.194">
+                <span>Drama, visual poetry,</span>
+            </p>
+            <p begin="00:27:49.261" end="00:27:51.229">
+                <span>it&#39;s got some of your lot</span>
+                <br></br>
+                <span>in it, Robin.</span>
+            </p>
+            <p begin="00:27:51.296" end="00:27:53.064">
+                <span>(grunts)</span>
+            </p>
+            <p begin="00:27:51.296" end="00:27:53.064">
+                <span>And some</span>
+            </p>
+            <p begin="00:27:53.131" end="00:27:54.165">
+                <span>pretty ladies for Julian.</span>
+            </p>
+            <p begin="00:27:54.232" end="00:27:55.467">
+                <span>(cheering)</span>
+            </p>
+            <p begin="00:27:57.102" end="00:27:58.436">
+                <span>It is, of course,</span>
+            </p>
+            <p begin="00:27:58.503" end="00:28:02.541">
+                <span>2001: A Space Odyssey.</span>
+            </p>
+            <p begin="00:28:05.477" end="00:28:07.445">
+                <span>Thanks, Pat.</span>
+            </p>
+            <p begin="00:28:07.512" end="00:28:08.747">
+                <span>You can be my wingman anytime.</span>
+            </p>
+            <p begin="00:28:08.813" end="00:28:10.582">
+                <span>You can be mine.</span>
+            </p>
+            <p begin="00:28:10.649" end="00:28:12.350">
+                <span>Uh, it&#39;s from</span>
+                <br></br>
+                <span>Top Gun.</span>
+            </p>
+            <p begin="00:28:12.417" end="00:28:14.553">
+                <span>(Richard Strauss&#39; Also</span>
+                <br></br>
+                <span>Sprach Zarathustra playing)</span>
+            </p>
+            <p begin="00:28:14.619" end="00:28:16.187">
+                <span>ALISON: Just here.</span>
+            </p>
+            <p begin="00:28:14.619" end="00:28:16.187">
+                <span>MIKE: Okay.</span>
+            </p>
+            <p begin="00:28:16.254" end="00:28:17.622">
+                <span>(grunts)</span>
+            </p>
+            <p begin="00:28:22.794" end="00:28:25.530">
+                <span>Wait, no, that not right.</span>
+            </p>
+            <p begin="00:28:25.597" end="00:28:27.566">
+                <span>What?</span>
+            </p>
+            <p begin="00:28:25.597" end="00:28:27.566">
+                <span>Earth not round,</span>
+            </p>
+            <p begin="00:28:27.632" end="00:28:29.200">
+                <span>it flat.</span>
+            </p>
+            <p begin="00:28:29.267" end="00:28:30.268">
+                <span>You what?</span>
+            </p>
+            <p begin="00:28:30.335" end="00:28:31.369">
+                <span>It flat.</span>
+            </p>
+            <p begin="00:28:33.071" end="00:28:34.506">
+                <span>To our first wedding booking.</span>
+            </p>
+            <p begin="00:28:33.071" end="00:28:34.506">
+                <span>Cheers.</span>
+            </p>
+            <p begin="00:28:34.573" end="00:28:37.275">
+                <span>Here&#39;s to buried secrets.</span>
+            </p>
+            <p begin="00:28:37.342" end="00:28:39.377">
+                <span>(music continues)</span>
+            </p>
+            <p begin="00:28:57.829" end="00:28:59.764">
+                <span>Captioning sponsored by</span>
+                <br></br>
+                <span>CBS</span>
+            </p>
+            <p begin="00:28:59.831" end="00:29:02.167">
+                <span>and TOYOTA.</span>
+            </p>
+            <p begin="00:29:02.233" end="00:29:04.235">
+                <span>Captioned by</span>
+                <br></br>
+                <span>Media Access Group at WGBH</span>
+                <br></br>
+                <span>access.wgbh.org</span>
+            </p>
+        </div>
+    </body>
+</tt>
