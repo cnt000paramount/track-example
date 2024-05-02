@@ -2,17 +2,17 @@
 
 To test 6 different techniques:
 
-track element in HTML with vtt src [commented in the code]
+1. track element in **HTML** with vtt src [commented in the code]
 
-track element in HTML with ttml src [commented in the code]
+2. track element in **HTML** with ttml src [commented in the code]
 
-track element created and added from JS with vtt [button VTT]
+3. track element created and added from **JS** with vtt [button VTT]
 
-track element created and added from JS with ttml (fetch the content and then use a blob) [button TTML]
+4. track element created and added from **JS** with ttml (fetch the content and then use a blob) [button TTML]
 
-track element created and added from JS with vtt (fetch the content and then use a blob) [button VTT BLOB]
+5. track element created and added from **JS** with vtt (fetch the content and then use a blob) [button VTT BLOB]
 
-track element created and added from JS with ttml converted on the fly in vtt (fetch the content, convert ttml to vtt, and then use a blob) [button TTML2VTT]
+6. track element created and added from **JS** with ttml converted on the fly in vtt (fetch the content, convert ttml to vtt, and then use a blob) [button TTML2VTT]
 
 ## Chrome browser (tested on v134):
 
